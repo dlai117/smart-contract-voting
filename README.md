@@ -1,1 +1,1 @@
-# smart-contract-voting
+智能合约投票系统
